@@ -12,7 +12,7 @@ The Private Markets division relies on a proprietary Investment Lifecycle Manage
 
 ---
  
-## Paint Points:
+## Pain Points:
 A stakeholder interview was conducted, revealing the following pain points:
 
 Module 1: Deal Sourcing & Due Diligence
@@ -86,3 +86,4 @@ UPC: Underlying Portfolio Company
 ## Expected Output Format:
 1. Report submission in MS Word format
 2. Presentation slides for interview panel
+
